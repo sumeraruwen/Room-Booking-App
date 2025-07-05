@@ -163,7 +163,7 @@ export default function BookingScreen({ route, navigation }) {
       "Booking Successful",
       "Your booking has been confirmed.",
       [
-        { text: "OK", onPress: () => navigation.navigate('OrderHistoryScreen') }
+        { text: "OK" }
       ]
     );
   }}
