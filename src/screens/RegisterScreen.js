@@ -413,7 +413,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    backgroundColor: '#8E44AD',
+    backgroundColor: '#66A7E1',
     paddingTop: Platform.OS === 'ios' ? 60 : 50,
     paddingBottom: 40,
     paddingHorizontal: 24,
@@ -490,11 +490,11 @@ const styles = StyleSheet.create({
     marginRight: 8,
   },
   checked: {
-    backgroundColor: '#007AFF',
+    backgroundColor: '#007AFFF',
   },
   checkboxLabel: {
     fontSize: 14,
-    color: '#6B7280',
+    color: '#007AFF',
     fontWeight: '500',
   },
   forgotText: {
@@ -503,7 +503,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   registerButton: {
-    backgroundColor: '#007AFF',
+    backgroundColor: '#66A7E1',
     paddingVertical: 16,
     borderRadius: 14,
     alignItems: 'center',

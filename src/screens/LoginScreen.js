@@ -380,7 +380,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    backgroundColor: '#9C79BD',
+    backgroundColor: '#66A7E1',
     paddingTop: Platform.OS === 'ios' ? 60 : 50,
     paddingBottom: 40,
     paddingHorizontal: 24,
@@ -453,24 +453,24 @@ const styles = StyleSheet.create({
     height: 20,
     borderRadius: 6,
     borderWidth: 1.5,
-    borderColor: '#1E1E1E',
+    borderColor: '#007AFF',
     marginRight: 8,
   },
   checked: {
-    backgroundColor: '#1E1E1E',
+    backgroundColor: '#007AFF',
   },
   checkboxLabel: {
     fontSize: 14,
-    color: '#1E1E1E',
+    color: '#007AFF',
     fontWeight: '500',
   },
   forgotText: {
     fontSize: 14,
-    color: '#1E1E1E',
+    color: '#007AFF',
     fontWeight: '600',
   },
   loginButton: {
-    backgroundColor: '#9C79BD',
+    backgroundColor: '#66A7E1',
     paddingVertical: 16,
     borderRadius: 14,
     alignItems: 'center',
@@ -496,7 +496,7 @@ const styles = StyleSheet.create({
   },
   signupLink: {
     fontSize: 15,
-    color: '#1E1E1E',
+    color: '#007AFF',
     fontWeight: '700',
   },
 });

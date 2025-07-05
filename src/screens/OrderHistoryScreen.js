@@ -67,7 +67,7 @@ export default function OrderHistoryScreen() {
   return (
     <View style={styles.container}>
       <LinearGradient
-        colors={['#8E44AD', '#339CFF']}
+        colors={['#66A7E1', '#339CFF']}
         style={styles.headerContainer}
       >
         <Text style={styles.headerTitle}>Order History</Text>

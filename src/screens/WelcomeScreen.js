@@ -236,7 +236,7 @@ const styles = StyleSheet.create({
     elevation: 8,
   },
   loginButton: {
-    backgroundColor: '#9C79BD',
+    backgroundColor: '#66A7E1',
   },
   registerButton: {
     backgroundColor: 'transparent',
